@@ -1,1 +1,1 @@
-# EM-clustering
+# EM Clustering
